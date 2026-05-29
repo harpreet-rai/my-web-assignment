@@ -1,0 +1,1 @@
+// activity card component
