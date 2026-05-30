@@ -1,1 +1,7 @@
-body { background:#050505; color:white; }
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-[#09090b] text-zinc-100 antialiased;
+  }
+}

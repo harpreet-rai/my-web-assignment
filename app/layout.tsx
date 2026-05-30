@@ -1,1 +1,1 @@
-export default function RootLayout({ children }) { return children }
+import './globals.css';
